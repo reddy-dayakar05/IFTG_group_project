@@ -1,1 +1,4 @@
 # IFTG_group_project
+Project Description 
+
+The project proposes a novel interactive storytelling tool that enables users to generate, compare, and evaluate story summaries based on their selected genre and title. Users can choose a story title and genre via dropdowns, and the backend employs multiple prompting techniques—like zero-shot, few-shot, and reflexion—to create multiple story summaries. These summaries are then analyzed for similarity to original dataset stories using ROUGE and BLEU metrics. The tool visually displays all generated summaries and their corresponding scores, highlighting the one most closely aligned with the original story. This allows users to explore how different prompting methods influence narrative style and content fidelity, offering insights into both creative generation and machine-evaluation techniques for storytelling. 
